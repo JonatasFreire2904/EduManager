@@ -28,10 +28,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\EduManager.Repository\EduManager.Repository.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\EduManager.Service\EduManager.Service.csproj" />
   </ItemGroup>
 
 </Project>
