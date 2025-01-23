@@ -15,4 +15,8 @@
     <ProjectReference Include="..\EduManager.Domain\EduManager.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>
